@@ -5,7 +5,7 @@
 /**
  * main - Determine if a random number is positive, negative or zero.
  *
- * Return: 0 (success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
